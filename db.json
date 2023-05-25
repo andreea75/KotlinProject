@@ -1,0 +1,74 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "The Super Mario Bros. Movie",
+      "poster_path": "https://upload.wikimedia.org/wikipedia/en/4/44/The_Super_Mario_Bros._Movie_poster.jpg",
+      "overview": "The story of The Super Mario Bros. on their journey through the Mushroom Kingdom.",
+      "video": "KydqdKKyGEk"
+    },
+    {
+      "id": 2,
+      "title": "Fast X",
+      "poster_path": "https://upload.wikimedia.org/wikipedia/en/f/f2/Fast_X_poster.jpg",
+      "overview": "Dom Toretto and his family are targeted by the vengeful son of drug kingpin Hernan Reyes.",
+      "video": "eoOaKN4qCKw"
+    },
+     {
+      "id": 3,
+      "title": "Barbie",
+      "poster_path": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Barbie_2023_poster.jpg/220px-Barbie_2023_poster.jpg",
+      "overview": "To live in Barbie Land is to be a perfect being in a perfect place. Unless you have a full-on existential crisis. Or you're a Ken.",
+      "video": "oRzCR5YKWUk"
+    },
+     {
+      "id": 4,
+      "title": "The Little Mermaid",
+      "poster_path": "https://upload.wikimedia.org/wikipedia/en/f/f4/The_Little_Mermaid_%282023_film%29.png",
+      "overview": "A young mermaid makes a deal with a sea witch to trade her beautiful voice for human legs so she can discover the world above water and impress a prince.",
+      "video": "kpGo2_d3oYE"
+    },
+     {
+      "id": 5,
+      "title": "Oppenheimer",
+      "poster_path": "https://upload.wikimedia.org/wikipedia/en/4/4a/Oppenheimer_%28film%29.jpg",
+      "overview": "The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb.",
+      "video": "uYPbbksJxIg"
+    },
+     {
+      "id": 6,
+      "title": "The Flash",
+      "poster_path": "https://upload.wikimedia.org/wikipedia/en/e/ed/The_Flash_%28film%29_poster.jpg",
+      "overview": "Barry Allen uses his super speed to change the past, but his attempt to save his family creates a world without super heroes, forcing him to race for his life in order to save the future.",
+      "video": "jprhe-cWKGs"
+    },
+     {
+      "id": 7,
+      "title": "Elemental",
+      "poster_path": "https://upload.wikimedia.org/wikipedia/en/4/4d/Elemental_final_poster.jpg",
+      "overview": "Follows Ember and Wade, in a city where fire-, water-, land- and air-residents live together.",
+      "video": "hXzcyx9V0xw"
+    },
+     {
+      "id": 8,
+      "title": "The Meg 2",
+      "poster_path": "https://m.media-amazon.com/images/M/MV5BZjE2N2NlMGMtNmM5Mi00MmY5LWExZDEtM2U2NjI5ZDFjYWU5XkEyXkFqcGdeQXVyMTA4MTY3MDg@._V1_.jpg",
+      "overview": "A group of scientists exploring the Marianas Trench encounter the largest marine predator that has ever existed - the Megalodon.",
+      "video": "dG91B3hHyY4"
+    },
+     {
+      "id": 9,
+      "title": "Last Voyage of the Demeter",
+      "poster_path": "https://upload.wikimedia.org/wikipedia/en/a/ad/The_Last_Voyage_of_the_Demeter_%282023%29_poster.jpg",
+      "overview": "Based on a single chapter, the Captain's Log, from Bram Stoker's classic 1897 novel Dracula, the story is set aboard the Russian schooner Demeter, which was chartered to carry private cargo - twenty-four unmarked wooden crates - from Carpathia to London.",
+      "video": "6FgUUO9Ztd0"
+    },
+     {
+      "id": 10,
+      "title": "Blue Beetle",
+      "poster_path": "https://upload.wikimedia.org/wikipedia/en/c/c1/Blue_Beetle_poster.jpg",
+      "overview": "A Mexican teenager finds an alien beetle that gives him superpowered armor.",
+      "video": "vS3_72Gb-bI"
+    }
+  ]
+}
