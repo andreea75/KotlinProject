@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "13829090568",
+    "project_id": "moviestreaming-ef41d",
+    "storage_bucket": "moviestreaming-ef41d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13829090568:android:5fc29a5b0c714cb56550bd",
+        "android_client_info": {
+          "package_name": "com.example.streammovies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13829090568-vnpstmhg25f86ehm05a77ujgjiichfde.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.streammovies",
+            "certificate_hash": "2fb7e4b2cd6a074ee532f78e51f30eeb50ef4aba"
+          }
+        },
+        {
+          "client_id": "13829090568-78a5smu4r9s9prut0iig3a10qhjncm0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDodFo-NxSKGekHzDwl8I-tFVNm0K2XERA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13829090568-78a5smu4r9s9prut0iig3a10qhjncm0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
